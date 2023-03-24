@@ -4451,7 +4451,7 @@
 	<property name="ActivationDistance" value="12"/>
 	<property name="BigDecorationRadius" value="12"/>
 	<property name="Shape" value="ModelEntity"/>
-	<property name="Model" value="#@modfolder:Resources/AppleTree.unity3d?AppleTreePrefab3"/>
+	<property name="Model" value="#@modfolder:Resources/FarmLifeTreesOld.unity3d?AppleTreePrefab"/>
 	<property name="ModelOffset" value="0,0,0"/>
 	<property name="MultiBlockDim" value="1,7,1"/>
     <property name="PlantGrowing.GrowthRate" value="60"/>
@@ -4486,7 +4486,7 @@
 	<property name="DisplayInfo" value="Name"/>
 	<property name="CustomIcon" value="Avocado Tree"/>
 	<property name="Shape" value="ModelEntity"/>
-	<property name="Model" value="#@modfolder:Resources/AppleTree.unity3d?AppleTreePrefab3"/>
+	<property name="Model" value="#@modfolder:Resources/FarmLifeTreesOld.unity3d?AvocadoTreePrefab"/>
 	<property name="ModelOffset" value="0,0,0"/>
 	<property name="MultiBlockDim" value="1,7,1"/>
 	<property name="ActivationDistance" value="12"/>
@@ -4523,7 +4523,7 @@
 	<property name="DisplayInfo" value="Name"/>
 	<property name="CustomIcon" value="Banana Tree"/>
 	<property name="Shape" value="ModelEntity"/>
-	<property name="Model" value="#@modfolder:Resources/AppleTree.unity3d?AppleTreePrefab3"/>
+	<property name="Model" value="#@modfolder:Resources/FarmLifeTreesOld.unity3d?BananaTreePrefab"/>
 	<property name="ModelOffset" value="0,0,0"/>
 	<property name="MultiBlockDim" value="1,7,1"/>
 	<property name="FallOver" value="false"/>
@@ -4561,7 +4561,7 @@
 	<property name="DisplayInfo" value="Name"/>
 	<property name="CustomIcon" value="Cherry Tree"/>
 	<property name="Shape" value="ModelEntity"/>
-	<property name="Model" value="#@modfolder:Resources/AppleTree.unity3d?AppleTreePrefab3"/>
+	<property name="Model" value="#@modfolder:Resources/FarmLifeTreesOld.unity3d?CherryTreeBlock"/>
 	<property name="ModelOffset" value="0,0,0"/>
 	<property name="MultiBlockDim" value="1,7,1"/>
 	<property name="FallOver" value="false"/>
@@ -4603,6 +4603,7 @@
 	<property name="ActivationDistance" value="12"/>
 	<property name="BigDecorationRadius" value="6"/>
 	<property name="Shape" value="ModelEntity"/>
+	<!-- TODO: Replace with actual Cinnamon tree. -->
 	<property name="Model" value="#@modfolder:Resources/AppleTree.unity3d?AppleTreePrefab3"/>
 	<property name="ModelOffset" value="0,0,0"/>
 	<property name="MultiBlockDim" value="1,7,1"/>
@@ -4641,7 +4642,7 @@
 	<property name="ActivationDistance" value="12"/>
 	<property name="BigDecorationRadius" value="6"/>
 	<property name="Shape" value="ModelEntity"/>
-	<property name="Model" value="#@modfolder:Resources/AppleTree.unity3d?AppleTreePrefab3"/>
+	<property name="Model" value="#@modfolder:Resources/FarmLifeTreesOld.unity3d?CoconutTreePrefab"/>
 	<property name="ModelOffset" value="0,0,0"/>
 	<property name="MultiBlockDim" value="1,7,1"/>
     <property name="PlantGrowing.GrowthRate" value="60"/>
@@ -4679,7 +4680,8 @@
 	<property name="ActivationDistance" value="12"/>
 	<property name="BigDecorationRadius" value="6"/>
 	<property name="Shape" value="ModelEntity"/>
-	<property name="Model" value="#@modfolder:Resources/AppleTree.unity3d?AppleTreePrefab3"/>
+	<!-- TODO: Replace with actual Lime tree? -->
+	<property name="Model" value="#@modfolder:Resources/FarmLifeTrees.unity3d?TreeGrowingPrefab"/>
 	<property name="ModelOffset" value="0,0,0"/>
 	<property name="MultiBlockDim" value="1,7,1"/>
     <property name="PlantGrowing.GrowthRate" value="60"/>
@@ -4714,7 +4716,7 @@
 	<property name="DisplayInfo" value="Name"/>
 	<property name="CustomIcon" value="Meier Tree"/>
 	<property name="Shape" value="ModelEntity"/>
-	<property name="Model" value="#@modfolder:Resources/AppleTree.unity3d?AppleTreePrefab3"/>
+	<property name="Model" value="#@modfolder:Resources/FarmLifeTreesOld.unity3d?MeyerLemonPrefab"/>
 	<property name="ModelOffset" value="0,0,0"/>
 	<property name="MultiBlockDim" value="1,7,1"/>
 	<property name="FallOver" value="false"/>
@@ -4751,7 +4753,7 @@
 	<property name="Collide" value="movement,melee,bullet,arrow,rocket"/>
 	<property name="DisplayInfo" value="Name"/>
 	<property name="Shape" value="ModelEntity"/>
-	<property name="Model" value="#@modfolder:Resources/AppleTree.unity3d?AppleTreePrefab3"/>
+	<property name="Model" value="#@modfolder:Resources/NutTree.unity3d?NutTreePrefab3"/>
 	<property name="ModelOffset" value="0,0,0"/>
 	<property name="MultiBlockDim" value="1,7,1"/>
 	<property name="FallOver" value="false"/>
@@ -4789,7 +4791,8 @@
 	<property name="DisplayInfo" value="Name"/>
 	<property name="CustomIcon" value="Olive Tree"/>
 	<property name="Shape" value="ModelEntity"/>
-	<property name="Model" value="#@modfolder:Resources/AppleTree.unity3d?AppleTreePrefab3"/>
+	<!-- TODO: Replace with actual Olive tree. -->
+	<property name="Model" value="#@modfolder:Resources/FarmLifeTreesOld.unity3d?SakuraTreePrefab"/>
 	<property name="ModelOffset" value="0,0,0"/>
 	<property name="MultiBlockDim" value="1,7,1"/>
 	<property name="FallOver" value="false"/>
@@ -4827,7 +4830,7 @@
 	<property name="DisplayInfo" value="Name"/>
 	<property name="CustomIcon" value="Orange Tree"/>
 	<property name="Shape" value="ModelEntity"/>
-	<property name="Model" value="#@modfolder:Resources/AppleTree.unity3d?AppleTreePrefab3"/>
+	<property name="Model" value="#@modfolder:Resources/FarmLifeTreesOld.unity3d?OrangeTreeBlock"/>
 	<property name="ModelOffset" value="0,0,0"/>
 	<property name="MultiBlockDim" value="1,7,1"/>
 	<property name="FallOver" value="false"/>
@@ -4865,7 +4868,7 @@
 	<property name="DisplayInfo" value="Name"/>
 	<property name="CustomIcon" value="Pear Tree"/>
 	<property name="Shape" value="ModelEntity"/>
-	<property name="Model" value="#@modfolder:Resources/AppleTree.unity3d?AppleTreePrefab3"/>
+	<property name="Model" value="#@modfolder:Resources/FarmLifeTreesOld.unity3d?PearTreePrefab"/>
 	<property name="ModelOffset" value="0,0,0"/>
 	<property name="MultiBlockDim" value="1,7,1"/>
 	<property name="FallOver" value="false"/>
@@ -4940,7 +4943,7 @@
 	<property name="DisplayInfo" value="Name"/>
 	<property name="CustomIcon" value="Sakura Tree"/>
 	<property name="Shape" value="ModelEntity"/>
-	<property name="Model" value="#@modfolder:Resources/AppleTree.unity3d?AppleTreePrefab3"/>
+	<property name="Model" value="#@modfolder:Resources/FarmLifeTreesOld.unity3d?SakuraTreePrefab"/>
 	<property name="ModelOffset" value="0,0,0"/>
 	<property name="MultiBlockDim" value="1,7,1"/>
 	<property name="FallOver" value="false"/>
@@ -4978,7 +4981,7 @@
 	<property name="DisplayInfo" value="Name"/>
 	<property name="CustomIcon" value="Sugar Maple Tree"/>
 	<property name="Shape" value="ModelEntity"/>
-	<property name="Model" value="#@modfolder:Resources/AppleTree.unity3d?AppleTreePrefab3"/>
+	<property name="Model" value="#@modfolder:Resources/FarmLifeTreesOld.unity3d?MapleTreeBlock"/>
 	<property name="ModelOffset" value="0,0,0"/>
 	<property name="MultiBlockDim" value="1,7,1"/>
 	<property name="FallOver" value="false"/>
@@ -5017,7 +5020,8 @@
 	<property name="DisplayInfo" value="Name"/>
 	<property name="CustomIcon" value="Walnut Tree"/>
 	<property name="Shape" value="ModelEntity"/>
-	<property name="Model" value="#@modfolder:Resources/AppleTree.unity3d?AppleTreePrefab3"/>
+	<!-- pucgenie: Does it still exist? -->
+	<property name="Model" value="#Entities/Trees?Maple20Prefab.prefab"/>
 	<property name="ModelOffset" value="0,0,0"/>
 	<property name="MultiBlockDim" value="1,7,1"/>
 	<property name="FallOver" value="false"/>
@@ -5056,7 +5060,7 @@
 	<property name="DisplayInfo" value="Name"/>
 	<property name="CustomIcon" value="White Oak"/>
 	<property name="Shape" value="ModelEntity"/>
-	<property name="Model" value="#@modfolder:Resources/AppleTree.unity3d?AppleTreePrefab3"/>
+	<property name="Model" value="#@modfolder:Resources/FarmLifeTreesOld.unity3d?WhiteOakPrefab"/>
 	<property name="ModelOffset" value="0,0,0"/>
 	<property name="MultiBlockDim" value="1,7,1"/>
 	<property name="FallOver" value="false"/>
@@ -5888,6 +5892,7 @@
 	                <property name="FallOver" value="false"/>
 	                <property name="ActivationDistance" value="12"/>
 	                <property name="BigDecorationRadius" value="12"/>
+						 <!-- TODO: Insert actual Peach tree. -->
                         <property name="Model" value="#@modfolder:Resources/AppleTree.unity3d?AppleTreePrefab3"/>
                         <property name="PlantGrowing.GrowthRate" value="60"/>
                         <property name="PlantGrowing.FertileLevel" value="1"/>
