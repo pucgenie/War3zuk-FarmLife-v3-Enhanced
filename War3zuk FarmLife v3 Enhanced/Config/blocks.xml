@@ -4681,7 +4681,7 @@
 	<property name="BigDecorationRadius" value="6"/>
 	<property name="Shape" value="ModelEntity"/>
 	<!-- TODO: Replace with actual Lime tree? -->
-	<property name="Model" value="#@modfolder:Resources/FarmLifeTrees.unity3d?TreeGrowingPrefab"/>
+	<property name="Model" value="#@modfolder:Resources/FarmLifeTreesOld.unity3d?TreeGrowingPrefab"/>
 	<property name="ModelOffset" value="0,0,0"/>
 	<property name="MultiBlockDim" value="1,7,1"/>
     <property name="PlantGrowing.GrowthRate" value="60"/>
